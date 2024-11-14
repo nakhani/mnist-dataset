@@ -51,4 +51,4 @@ To run the code, you need to have MATLAB installed. Follow these steps to set up
 
 Open MATLAB and run the scripts corresponding to each method. For example, to run the Adaline method, open and execute the script:
 ```matlab
-adaline.m
+Adaline.m
