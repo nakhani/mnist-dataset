@@ -36,12 +36,12 @@ To run the code, you need to have MATLAB installed. Follow these steps to set up
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/yourusername/mnist-classification.git
+    git clone https://github.com/nakhani/mnist-dataset.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd mnist-classification
+    cd mnist-dataset
     ```
 
 3. **Ensure the dataset files are in the correct location**:
